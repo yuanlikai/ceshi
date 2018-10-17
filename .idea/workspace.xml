@@ -23,9 +23,12 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="30" />
+            <state relative-caret-position="57">
+              <caret line="6" column="105" lean-forward="false" selection-start-line="6" selection-start-column="105" selection-end-line="6" selection-end-column="105" />
               <folding>
+                <element signature="n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#ul#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#ul#2;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#span#0;n#div#1;n#ul#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -35,8 +38,8 @@
       <file leaf-file-name="index.less" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/str/index/index.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="183" column="17" lean-forward="false" selection-start-line="183" selection-start-column="17" selection-end-line="183" selection-end-column="17" />
+            <state relative-caret-position="306">
+              <caret line="187" column="12" lean-forward="false" selection-start-line="187" selection-start-column="12" selection-end-line="187" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -136,12 +139,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539748198935</updated>
-      <workItem from="1539748200259" duration="3251000" />
+      <workItem from="1539748200259" duration="4237000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3251000" />
+    <option name="totallyTimeSpent" value="4237000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -195,9 +198,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="30" />
+        <state relative-caret-position="57">
+          <caret line="6" column="105" lean-forward="false" selection-start-line="6" selection-start-column="105" selection-end-line="6" selection-end-column="105" />
           <folding>
+            <element signature="n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#span#0;n#div#1;n#ul#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -205,8 +211,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/str/index/index.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="183" column="17" lean-forward="false" selection-start-line="183" selection-start-column="17" selection-end-line="183" selection-end-column="17" />
+        <state relative-caret-position="306">
+          <caret line="187" column="12" lean-forward="false" selection-start-line="187" selection-start-column="12" selection-end-line="187" selection-end-column="12" />
           <folding />
         </state>
       </provider>

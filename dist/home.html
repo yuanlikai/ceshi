@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-    <meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no"  name="viewport" />
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" content="ie=edge"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.0/css/swiper.min.css" rel="stylesheet">
     <link rel="stylesheet" href="./str/index/index.css">
     <script>
         var w = window.innerWidth / 18;
@@ -18,6 +19,18 @@
         <input type="text" class="head-inp" placeholder="楼盘名称">
         <a class="login login1" href="">登录</a>
         <a class="login" href="">注册</a>
+    </div>
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+                <img src="http://www.shgsfc.com//uploads/image/20180930/20180930102846_57307.jpg" alt="">
+            </div>
+            <div class="swiper-slide">
+                <img src="http://www.gsfzd.com/uploads/image/20180930/20180930101257_51044.jpg" alt="">
+            </div>
+        </div>
+        <!-- 如果需要分页器 -->
+        <div class="swiper-pagination"></div>
     </div>
 
 </header>
@@ -157,7 +170,19 @@
         <span style="background: #fff">我也是有底线的</span>
     </div>
 </ul>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.0/js/swiper.min.js"></script>
+<script>
+    $(document).ready(function () {
+        var mySwiper = new Swiper('.swiper-container', {
 
+            // 如果需要分页器
+            pagination: {
+                el: '.swiper-pagination',
+            },
 
+        })
+    })
+</script>
 </body>
 </html>
