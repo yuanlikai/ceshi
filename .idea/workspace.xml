@@ -4,9 +4,7 @@
     <list default="true" id="99a6f42b-f359-4513-a169-763c62b4ec24" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/dist/home.html" afterPath="$PROJECT_DIR$/dist/home.html" />
-      <change beforePath="$PROJECT_DIR$/dist/str/index/index.css" afterPath="$PROJECT_DIR$/dist/str/index/index.css" />
       <change beforePath="$PROJECT_DIR$/src/home.html" afterPath="$PROJECT_DIR$/src/home.html" />
-      <change beforePath="$PROJECT_DIR$/src/str/index/index.less" afterPath="$PROJECT_DIR$/src/str/index/index.less" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,8 +21,8 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="25" column="128" lean-forward="false" selection-start-line="25" selection-start-column="128" selection-end-line="25" selection-end-column="128" />
+            <state relative-caret-position="494">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding>
                 <element signature="n#ul#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#ul#2;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -112,16 +110,6 @@
               <item name="ceshi" type="b2602c69:ProjectViewProjectNode" />
               <item name="ceshi" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ceshi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ceshi" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ceshi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ceshi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -160,12 +148,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539748198935</updated>
-      <workItem from="1539748200259" duration="7044000" />
+      <workItem from="1539748200259" duration="8015000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7044000" />
+    <option name="totallyTimeSpent" value="8015000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -235,8 +223,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="25" column="128" lean-forward="false" selection-start-line="25" selection-start-column="128" selection-end-line="25" selection-end-column="128" />
+        <state relative-caret-position="494">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding>
             <element signature="n#ul#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#ul#2;n#body#0;n#html#0;n#!!top" expanded="false" />
