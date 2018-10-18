@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99a6f42b-f359-4513-a169-763c62b4ec24" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/dist/download.html" afterPath="$PROJECT_DIR$/dist/download.html" />
       <change beforePath="$PROJECT_DIR$/src/download.html" afterPath="$PROJECT_DIR$/src/download.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,8 +19,8 @@
       <file leaf-file-name="download.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/download.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="22" column="120" lean-forward="false" selection-start-line="22" selection-start-column="120" selection-end-line="22" selection-end-column="120" />
+            <state relative-caret-position="155">
+              <caret line="21" column="68" lean-forward="false" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -203,12 +202,12 @@
       <updated>1539748198935</updated>
       <workItem from="1539748200259" duration="9529000" />
       <workItem from="1539825250683" duration="2794000" />
-      <workItem from="1539841664397" duration="3208000" />
+      <workItem from="1539841664397" duration="3328000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15531000" />
+    <option name="totallyTimeSpent" value="15651000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -356,8 +355,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/download.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="22" column="120" lean-forward="false" selection-start-line="22" selection-start-column="120" selection-end-line="22" selection-end-column="120" />
+        <state relative-caret-position="155">
+          <caret line="21" column="68" lean-forward="false" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
