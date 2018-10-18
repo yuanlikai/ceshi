@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" content="ie=edge"/>
+    <link rel="stylesheet" href="./str/download/download.css">
+    <script>
+        var w = window.innerWidth / 18;
+        document.getElementsByTagName('html')[0].style.fontSize = w + 'px'
+    </script>
+    <title>Title</title>
+</head>
+<body>
+<img style="width: 100%;float: left" src="https://newhome.oss-cn-beijing.aliyuncs.com/APP.png" alt="">
+<a href="http://apk.gsfzd.com/1.0/gsf_1.0.apk" download><img class="downaz"
+                                                             src="https://newhome.oss-cn-beijing.aliyuncs.com/%E5%AE%89%E5%8D%93.png"
+                                                             alt=""></a>
+<script>
+    function isWeiXin() {
+        var ua = window.navigator.userAgent.toLowerCase();
+        console.log(ua);//mozilla/5.0 (iphone; cpu iphone os 9_1 like mac os x) applewebkit/601.1.46 (khtml, like gecko)version/9.0 mobile/13b143 safari/601.1
+        if (ua.match(/MicroMessenger/i) == 'micromessenger') {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+    if (isWeiXin()) {
+        alert(" 是来自微信内置浏览器")
+    } else {
+        alert("不是来自微信内置浏览器")
+    }
+</script>
+</body>
+</html>
