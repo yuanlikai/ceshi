@@ -19,8 +19,8 @@
 <img style="width: 100%;float: left" src="https://newhome.oss-cn-beijing.aliyuncs.com/APP.png" alt="">
 <a class="noweix" href="http://apk.gsfzd.com/1.0/gsf_1.0.apk" download><img class="downaz"
                                                              src="https://newhome.oss-cn-beijing.aliyuncs.com/%E5%AE%89%E5%8D%93.png"
-                                                             alt="">1</a>
-<span class="wx"><img class="downaz" src="https://newhome.oss-cn-beijing.aliyuncs.com/%E5%AE%89%E5%8D%93.png" alt=""></span>
+                                                             alt="">111</a>
+<span class="wx"><img class="downaz" src="https://newhome.oss-cn-beijing.aliyuncs.com/%E5%AE%89%E5%8D%93.png" alt="">111</span>
 <script>
     function isWeiXin() {
         var ua = window.navigator.userAgent.toLowerCase();
@@ -33,18 +33,17 @@
     }
 
     if (isWeiXin()) {
-        document.getElementsByClassName('wx')[0].style.display='none';
-        // alert(" 是来自微信内置浏览器")
-
-    } else {
         document.getElementsByClassName('noweix')[0].style.display='none';
         document.getElementsByClassName('wx')[0].onclick=function(){
             document.getElementsByClassName('alert')[0].style.display='block';
-            console.log('123')
-        }
+        };
         document.getElementsByClassName('alert')[0].onclick=function(){
             this.style.display='none';
         }
+        // alert(" 是来自微信内置浏览器")
+
+    } else {
+        document.getElementsByClassName('wx')[0].style.display='none';
         // alert("不是来自微信内置浏览器")
 
     }
